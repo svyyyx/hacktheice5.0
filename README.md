@@ -1,1 +1,1 @@
-#IT trip
+IT trip
